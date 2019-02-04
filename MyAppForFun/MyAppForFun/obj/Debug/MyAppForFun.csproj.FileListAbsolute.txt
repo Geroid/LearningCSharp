@@ -1,0 +1,7 @@
+C:\Users\geroid\source\repos\MyAppForFun\MyAppForFun\obj\Debug\MyAppForFun.csprojAssemblyReference.cache
+C:\Users\geroid\source\repos\MyAppForFun\MyAppForFun\obj\Debug\MyAppForFun.csproj.CoreCompileInputs.cache
+C:\Users\geroid\source\repos\MyAppForFun\MyAppForFun\bin\Debug\MyAppForFun.exe.config
+C:\Users\geroid\source\repos\MyAppForFun\MyAppForFun\bin\Debug\MyAppForFun.exe
+C:\Users\geroid\source\repos\MyAppForFun\MyAppForFun\bin\Debug\MyAppForFun.pdb
+C:\Users\geroid\source\repos\MyAppForFun\MyAppForFun\obj\Debug\MyAppForFun.exe
+C:\Users\geroid\source\repos\MyAppForFun\MyAppForFun\obj\Debug\MyAppForFun.pdb
